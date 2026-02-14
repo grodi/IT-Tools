@@ -55,7 +55,7 @@
 | <img src="https://hohnstaedt.de/xca/templates/g5_hydrogen/custom/images/bigcert.png" width="40"/>&nbsp; [XCA](https://hohnstaedt.de/xca/)|This application is intended for creating and managing X.509 certificates, certificate requests, RSA, DSA and EC private keys, Smartcards and CRLs.| free |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bitwarden_logo.svg/1200px-Bitwarden_logo.svg.png" width="30"/>&nbsp;[bitwarden](https://github.com/bitwarden) | Password Security | Open Source |
 | <img src="https://apps.kde.org/favicon-16x16.png" width="20"/>&nbsp;[Kleopatra](https://apps.kde.org/kleopatra/)|Kleopatra ist ein Open-Source-Zertifikatsmanager und ein grafisches Front-End für kryptografische Dienste, das hauptsächlich für die Nutzung von OpenPGP- und S/MIME (X.509)-Zertifikaten entwickelt wurde.| Open Source |
-
+| <img src="https://i0.wp.com/zeek.org/wp-content/uploads/2024/03/cropped-zeek-favicon.png" width="20"/>&nbsp; [zeek](https://zeek.org/)|An Open Source Network Security Monitoring Tool|Open Source|
 
 ## VPN - Remote Access
 | Application  | Description | License Model |
@@ -90,7 +90,7 @@
 | <img src="https://material.angular.dev/assets/img/favicon.ico?v=19.1.0" width="15"/>&nbsp;&nbsp;[Angular](https://material.angular.io) | Material Design components for Angular  | Open Source |
 | <img src="https://static1.smartbear.co/swagger/media/assets/swagger_fav.png" width="15"/>&nbsp;&nbsp;[Swagger](https://swagger.io) | Swagger UI is prject to visually render documentation for an API defined with the OpenAPI (Swagger) definition  | Open Source |
 | <img src="https://avatars.githubusercontent.com/u/38656520?s=48&v=4" width="15"/>&nbsp;[Renovate](https://github.com/renovatebot/renovate)| Renovate is an automated dependency update tool. It helps to update dependencies in your code without needing to do it manually. | Open Source |
-|<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gitea_Logo.svg" width="20"/>&nbsp;&nbsp;[Gitea](https://about.gitea.com/)| Gitea enables the creation and management of repositories based on Git. It also makes code review incredibly easy and convenient, enhancing code quality for users and businesses. | Open Source / Enterprise |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gitea_Logo.svg" width="20"/>&nbsp;&nbsp;[Gitea](https://about.gitea.com/)| Gitea enables the creation and management of repositories based on Git. It also makes code review incredibly easy and convenient, enhancing code quality for users and businesses. | Open Source / Enterprise |
 
 ## Documentation
 
