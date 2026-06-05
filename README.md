@@ -43,7 +43,9 @@
 | <img src="https://grafana.com/static/img/about/grafana_logo_swirl_fullcolor.jpg" width="20"/>&nbsp;&nbsp;[Grafana](https://grafana.com/) |With Grafana you can create, explore, and share all of your data through beautiful, flexible dashboards| Open Source / PayPlan|
 | <img src="https://beszel.dev/icon.svg" width="15"/>&nbsp;&nbsp; [Beszel](https://beszel.dev/) | Beszel is a lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions| Open Source |
 |[AWStats](https://awstats.sourceforge.io/)|Web Analysis Software for log data|OpenSource|
-
+Victorialogs
+restic
+KOPIA
 
 ## Security and Identity
 | Application &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | License Model |
