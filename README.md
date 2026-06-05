@@ -46,6 +46,7 @@
 Victorialogs
 restic
 KOPIA
+RCLONE
 
 ## Security and Identity
 | Application &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | License Model |
