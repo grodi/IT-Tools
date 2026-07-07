@@ -8,6 +8,10 @@
 | <img src="https://www.proxmox.com/favicon.svg" width="20"/>&nbsp;&nbsp; [Proxmox](https://www.proxmox.com/en/)|A virtualization platform designed for the provisioning of hyper-converged infrastructure.|Open Source / Subscription|
 |[Sipcalc](https://github.com/sii/sipcalc)|Sipcalc is an console based ip subnet calculator with IPv4 and IPv6 support|Open Source|
 
+Portainer
+Arcane
+Syncthing
+
 ## Network Automation and Monitoring
 | Application  | Description | License Model |
 | --- | --- | --- |
