@@ -100,6 +100,9 @@ RCLONE
 | <img src="https://avatars.githubusercontent.com/u/38656520?s=48&v=4" width="15"/>&nbsp;[Renovate](https://github.com/renovatebot/renovate)| Renovate is an automated dependency update tool. It helps to update dependencies in your code without needing to do it manually. | Open Source |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gitea_Logo.svg" width="20"/>&nbsp;&nbsp;[Gitea](https://about.gitea.com/)| Gitea enables the creation and management of repositories based on Git. It also makes code review incredibly easy and convenient, enhancing code quality for users and businesses. | Open Source / Enterprise |
 
+Bruno https://www.usebruno.com/
+
+
 ## Documentation
 
 https://squidfunk.github.io/mkdocs-material/
